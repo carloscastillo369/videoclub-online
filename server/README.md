@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-        <img src="/server/images/logo.JPG" alt="" height="92">
+    <img src="/server/images/logo.JPG" alt="" height="92">
   </p>
   <h1 align="center">
     HomeMovie
@@ -57,7 +57,7 @@ ng build
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/homepage.JPG" alt="" height="372">
+    <img src="/server/images/homepage.JPG" alt="" height="200">
   </p>
   <p align="center">
     Página de inicio
