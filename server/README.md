@@ -134,7 +134,7 @@ _Al presionar sobre un card de película, este le llevará a otra ruta donde ver
 
 <p align="center">
   <p align="center">
-      <img src="/server/images/addedmovie.JPG" alt="" height="372">
+      <img src="/server/images/addmoviemodal.JPG" alt="" height="372">
   </p>
   <p align="center">
     Modal para agregar película
