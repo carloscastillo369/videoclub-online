@@ -64,7 +64,7 @@ ng build
   </p>
 </p>
 
-_Al iniciar la app, se mostrará la pagína de inicio, donde hay un botón para iniciar sesión <img src="/sever/images/buttonsignin.JPG" alt="" height="20"> y otro para registrarse <img src="/sever/images/buttonsignup.JPG" alt="" height="20">._
+_Al iniciar la app, se mostrará la pagína de inicio, donde hay un botón para iniciar sesión <img src="/server/images/buttonsignin.JPG" alt="" height="20"> y otro para registrarse <img src="/server/images/buttonsignup.JPG" alt="" height="20">._
 
 <p align="center">
   <p align="center">
@@ -79,7 +79,7 @@ _Si cuenta con un registro entonces podrá logearse._
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/signuppage.JPG" alt="" height="372">
+    <img src="/server/images/signuppage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página de registrarse
@@ -90,7 +90,7 @@ _Sino deberá registrarse._
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/list-movies-page.JPG" alt="" height="372">
+    <img src="/server/images/listmoviespage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página lista de películas
@@ -101,7 +101,7 @@ _Una vez logeado el cliente podrá observar una lista de cards de péliculas dis
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/card-movie.JPG" alt="" height="372">
+      <img src="/server/images/cardmovie.JPG" alt="" height="372">
   </p>
   <p align="center">
     Card de una película
@@ -112,7 +112,7 @@ _En la parte superior de cada card se mostrará la cantidad de disponibilidad._
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/detail-movie-page.JPG" alt="" height="372">
+      <img src="/server/images/detailmoviepage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página detalle de película
@@ -121,7 +121,7 @@ _En la parte superior de cada card se mostrará la cantidad de disponibilidad._
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/buttons-function.JPG" alt="" height="372">
+      <img src="/server/images/buttonsfunction.JPG" alt="" height="372">
   </p>
   <p align="center">
     Lista de botones
@@ -134,22 +134,22 @@ _Al presionar sobre un card de película, este le llevará a otra ruta donde ver
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/add-movie.JPG" alt="" height="372">
+      <img src="/server/images/addmovie.JPG" alt="" height="372">
   </p>
   <p align="center">
     Modal para agregar película
   </p>
 </p>
 
-* _Alquilar: Abrirá un modal donde el cliente podrá aumentar o disminuir la cantidad de días de alquiler. Esto lo puede realizar mediante los botones +/- o ingresando por teclado la cantidad deseada (el número mínimo de días es 01 y el máximo es 30). Una vez presione el botón 'Agregar', se agregará esta película a la lista del Cart. Estó se verá reflejado inmediatamente en la barra de navegación sobre el icono de carrito de compras <img src="/sever/images/cart-widget.JPG" alt="" height="20">, además el botón de alquiler cambiará a un mensaje 'Ya has agregado esta película' <img src="/sever/images/added-movie.JPG" alt="" height="20">_
+* _Alquilar: Abrirá un modal donde el cliente podrá aumentar o disminuir la cantidad de días de alquiler. Esto lo puede realizar mediante los botones +/- o ingresando por teclado la cantidad deseada (el número mínimo de días es 01 y el máximo es 30). Una vez presione el botón 'Agregar', se agregará esta película a la lista del Cart. Estó se verá reflejado inmediatamente en la barra de navegación sobre el icono de carrito de compras <img src="/server/images/cartwidget.JPG" alt="" height="20">, además el botón de alquiler cambiará a un mensaje 'Ya has agregado esta película' <img src="/server/images/addedmovie.JPG" alt="" height="20">_
 * _Seguir comprando: Llevará al cliente a la lista de películas para seguir alquilando._
 * _Ir al carrito: Llevará al cliente a la ruta del carrito de compras, donde podrá observar la lista de películas agregadas._
 
-_Una vez el cliente termine la selección de películas que desea alquilar, para continuar con su compra deberá dirigirse al icono de carrito de compras que se encuentra en la barra de navegación <img src="/sever/images/cart-widget.JPG" alt="" height="20">._
+_Una vez el cliente termine la selección de películas que desea alquilar, para continuar con su compra deberá dirigirse al icono de carrito de compras que se encuentra en la barra de navegación <img src="/server/images/cartwidget.JPG" alt="" height="20">._
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/cart-page.JPG" alt="" height="372">
+      <img src="/server/images/cartpage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página del carrito de compras
@@ -162,17 +162,17 @@ _La tabla del cart está formado por 6 columnas: N°, Descripción, Acción, Dí
 
 * _N°: Posición en la lista del Cart._
 * _Descripción: Breve descripción de la película agregada con imagen. Clickeando sobre la descripción de la película le llevará hacia el detalle de película._
-* _Acción: Un botón para eliminar la película de lista del Cart <img src="/sever/images/button-delete.JPG" alt="" height="20">._
-* _Días: Para aumentar la cantidad de días de alquiler. Se puede utilizar los botones +/- o digitar dentro de la casilla la cantidad. El número mínimo de días es 01 y el máximo es 30 <img src="/sever/images/change-days.JPG" alt="" height="20">._
+* _Acción: Un botón para eliminar la película de lista del Cart <img src="/server/images/buttondelete.JPG" alt="" height="20">._
+* _Días: Para aumentar la cantidad de días de alquiler. Se puede utilizar los botones +/- o digitar dentro de la casilla la cantidad. El número mínimo de días es 01 y el máximo es 30 <img src="/server/images/changedays.JPG" alt="" height="20">._
 * _Precio: Valor unitario de alquiler por un día._
 * _Subtotal: Valor de la multiplicación del precio unitario por la cantidad de días de alquiler._
-* _Vaciar Carrito: Este botoón removerá todo el carrito <img src="/sever/images/button-remove.JPG" alt="" height="20">._
+* _Vaciar Carrito: Este botoón removerá todo el carrito <img src="/sever/images/buttonremove.JPG" alt="" height="20">._
 
-_Una vez conforme el cliente con las películas que desea alquilar y el tiempo, podrá realizar su pedido de compra presionando sobre el botón 'Realizar pedido' <img src="/sever/images/button-go-checkout.JPG" alt="" height="20">, esto lo llevará a la ruta del checkout._ 
+_Una vez conforme el cliente con las películas que desea alquilar y el tiempo, podrá realizar su pedido de compra presionando sobre el botón 'Realizar pedido' <img src="/sever/images/buttongocheckout.JPG" alt="" height="20">, esto lo llevará a la ruta del checkout._ 
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/checkout-page.JPG" alt="" height="372">
+      <img src="/server/images/checkoutpage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página del checkout
@@ -183,7 +183,7 @@ _En el checkout se muestra un card con la información personal del cliente (nom
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/procesando-compra.JPG" alt="" height="372">
+      <img src="/server/images/procesandocompra.JPG" alt="" height="372">
   </p>
   <p align="center">
     Notificación procesando compra
@@ -192,25 +192,25 @@ _En el checkout se muestra un card con la información personal del cliente (nom
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/success-buy.JPG" alt="" height="372">
+      <img src="/server/images/successbuy.JPG" alt="" height="372">
   </p>
   <p align="center">
     Notificación compra exitosa
   </p>
 </p>
 
-_Si el cliente presiona sobre el botón 'Pagar' <img src="/sever/images/button-pay.JPG" alt="" height="20">, al cabo de unos segundos se mostrará una notificación que verificará el éxito de su compra._
+_Si el cliente presiona sobre el botón 'Pagar' <img src="/server/images/buttonpay.JPG" alt="" height="20">, al cabo de unos segundos se mostrará una notificación que verificará el éxito de su compra._
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/my-orders.JPG" alt="" height="372">
+      <img src="/server/images/myorderspage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Mis pedidos
   </p>
 </p>
 
-_Luego, podrá ir a su perfil <img src="/sever/images/perfil.JPG" alt="" height="20"> y ver sus pedidos. Aquí aparecerá todos los pedidos que haya realizado._
+_Luego, podrá ir a su perfil <img src="/server/images/perfil.JPG" alt="" height="20"> y ver sus pedidos. Aquí aparecerá todos los pedidos que haya realizado._
 
 _Finalmente para salir de la aplicación el cliente podrá deslogearse desde su perfil, o en todo caso la sesión se cerrará automatícamente al cabo de 8 horas. Esto debido a que cada cuenta registrada se le otorgará un Token que expira en este tiempo._
 
