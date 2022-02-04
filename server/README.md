@@ -57,7 +57,7 @@ ng build
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/home-page.JPG" alt="" height="372">
+      <img src="/sever/images/homepage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página de inicio
