@@ -53,7 +53,7 @@ ng build
 
 ## Funcionamiento ⚙️
 
-**Como cliente**
+**COMO CLIENTE**
 
 <p align="center">
   <p align="center">
@@ -214,13 +214,58 @@ _Luego, podrá ir a su perfil <img src="/server/images/perfil.JPG" alt="" height
 
 _Finalmente para salir de la aplicación el cliente podrá deslogearse desde su perfil, o en todo caso la sesión se cerrará automatícamente al cabo de 8 horas. Esto debido a que cada cuenta registrada se le otorgará un Token que expira en este tiempo._
 
-_**Como dato adicional: Si dos o más usuarios adquieren una misma película al mismo tiempo y la disponibilidad es de solo 01, al app está diseñada para evitar que se agregue o se compre, si el stock de una película ya no está disponible.**_
+_Como dato adicional: Si dos o más usuarios adquieren una misma película al mismo tiempo y la disponibilidad es de solo 01, al app está diseñada para evitar que se agregue o se compre, si el stock de una película ya no está disponible._
 
-**Como administrador**
+**COMO ADMINISTRADOR**
 
 _**Se necesita un email y password de administrador**._
 
+<p align="center">
+  <p align="center">
+      <img src="/server/images/adminmoviespage.JPG" alt="" height="372">
+  </p>
+  <p align="center">
+    Lista de películas
+  </p>
+</p>
+
+<p align="center">
+  <p align="center">
+      <img src="/server/images/adminaddmovie.JPG" alt="" height="372">
+  </p>
+  <p align="center">
+    Agregar nueva película
+  </p>
+</p>
+
+<p align="center">
+  <p align="center">
+      <img src="/server/images/adminupdatemovie.JPG" alt="" height="372">
+  </p>
+  <p align="center">
+    Actualizar película
+  </p>
+</p>
+
 _Una vez logeado el administrador podrá ver una tabla con las películas pre-agregadas en la base de datos. Aquí podrá crear otras nuevas, modificar las ya existentes o eliminarlas._
+
+<p align="center">
+  <p align="center">
+      <img src="/server/images/adminorderspage.JPG" alt="" height="372">
+  </p>
+  <p align="center">
+    Lista de pedidos
+  </p>
+</p>
+
+<p align="center">
+  <p align="center">
+      <img src="/server/images/adminorderdetail.JPG" alt="" height="372">
+  </p>
+  <p align="center">
+    Detalle del pedido
+  </p>
+</p>
 
 _En la pestaña pedidos, verá otra tabla con el nombre y correo del cliente que ha realizado el pedido y un botón 'Pedidos', que le llevará a otra ruta donde se muestra un card con mayor información del cliente y una tabla con toda la información del pedido: descripción, días de alquiler, precio, subtotal y Total._
 
