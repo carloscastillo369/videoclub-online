@@ -1,8 +1,6 @@
 <p align="center">
   <p align="center">
-      <div background-color="#000">
-        <img src="/src/bin/assets/images/logo/Logo-White.png" alt="" height="72">
-      </div>
+        <img src="/server/images/logo.png" alt="" height="72">
   </p>
   <p align="center">
     HomeMovie
