@@ -57,18 +57,18 @@ ng build
 
 <p align="center">
   <p align="center">
-    <img src="/server/images/homepage.JPG" alt="" height="200">
+    <img src="/server/images/homepage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página de inicio
   </p>
 </p>
 
-_Al iniciar la app, se mostrará la pagína de inicio, donde hay un botón para iniciar sesión <img src="/sever/images/button-sign-in.JPG" alt="" height="20"> y otro para registrarse <img src="/sever/images/button-sign-up.JPG" alt="" height="20">._
+_Al iniciar la app, se mostrará la pagína de inicio, donde hay un botón para iniciar sesión <img src="/sever/images/buttonsignin.JPG" alt="" height="20"> y otro para registrarse <img src="/sever/images/buttonsignup.JPG" alt="" height="20">._
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/sign-in-page.JPG" alt="" height="372">
+    <img src="/server/images/signinpage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página iniciar sesión
@@ -79,7 +79,7 @@ _Si cuenta con un registro entonces podrá logearse._
 
 <p align="center">
   <p align="center">
-      <img src="/sever/images/sign-up-page.JPG" alt="" height="372">
+      <img src="/sever/images/signuppage.JPG" alt="" height="372">
   </p>
   <p align="center">
     Página de registrarse
