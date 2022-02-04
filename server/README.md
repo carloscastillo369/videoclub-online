@@ -1,10 +1,10 @@
 <p align="center">
   <p align="center">
-        <img src="/server/images/logo.png" alt="" height="72">
+        <img src="/server/images/logo.JPG" alt="" height="92">
   </p>
-  <p align="center">
+  <h1 align="center">
     HomeMovie
-  </p>
+  </h1>
 </p>
 
 ## Descripción
