@@ -11,6 +11,16 @@
 
 _Es un app para alquilar películas, se puede ingresar como cliente o administrador (con atorización). El cliente una vez registrado y logueado, podrá alquilar películas, ver su perfil y sus pedidos de compra. El administrador una vez logueado tendrá el control de las películas (ver, modificar, crear, eliminar) y ver los pedidos de alquiler de los clientes._
 
+## Demo
+
+**Como Cliente**
+
+![client](https://user-images.githubusercontent.com/69721075/152480786-a232eb39-d1d9-4ab1-b3a8-0c09487566ca.gif)
+
+**Como Administrado**
+
+![admin](https://user-images.githubusercontent.com/69721075/152481041-3f1ff8cb-094a-4816-af2f-52f07a7db95a.gif)
+
 ## Comenzando 🚀
 
 _Para ver la navegabilidad de este proyecto puedes ingresar al siguiente enlace <https://homemovie.herokuapp.com>._
